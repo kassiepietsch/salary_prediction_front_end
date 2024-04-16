@@ -2,7 +2,7 @@ import flask
 from flask import request, render_template, redirect, url_for
 from flask_cors import CORS
 import requests
-# import json
+import json
 
 app = flask.Flask(__name__)
 app.config["SECRET_KEY"] = "seasdad(*2sffcra01^23sdet"
