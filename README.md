@@ -1,5 +1,11 @@
 # salary_prediction_front_end
 
+# skills used
+![Flask](https://img.shields.io/badge/Flask-2.0+-green?style=for-the-badge&logo=flask&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5&logoColor=white)
+
+
  ## the html section of the salary_api
  This section of the assignment is the html site created for the survey launch. This html was created using a base and an index html file. Various objectives were met to create the survey on the website. Creating multiple questions, short answers, and data collection of the survey results. 
 
